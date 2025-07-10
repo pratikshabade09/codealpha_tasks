@@ -8,7 +8,6 @@ This is a simple yet powerful chatbot built using Machine Learning. It uses **TF
 ## 📂 Project Structure
 
 ```
-codealpha_tasks/
 ├── Chatbot.py           # Main chatbot script
 ├── Intent.json          # Training data (intents, texts, responses)
 ├── requirements.txt     # Required Python packages
